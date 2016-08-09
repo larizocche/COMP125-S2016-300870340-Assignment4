@@ -1,4 +1,4 @@
-# COMP125-Assignment3
+# COMP125-Assignment4
 
-## Update page with JSON
+## JavaScript Banner Ad
 

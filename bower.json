@@ -1,12 +1,12 @@
 {
-  "name": "COMP125-S2016-300870340-Assignment4",
-  "homepage": "https://github.com/larizocche/COMP125-S2016-300870340-Assignment4",
+  "name": "comp125-lesson12",
   "authors": [
-    "larizocche <lari.zocche@gmail.com>"
+    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
   ],
   "description": "",
   "main": "",
   "license": "MIT",
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -16,9 +16,9 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^2.2.4",
     "bootstrap": "^3.3.6",
     "font-awesome": "^4.6.3",
+    "jquery": "^2.2.4",
     "EaselJS": "easeljs#^0.8.2",
     "TweenJS": "^0.6.2",
     "SoundJS": "^0.6.2",
